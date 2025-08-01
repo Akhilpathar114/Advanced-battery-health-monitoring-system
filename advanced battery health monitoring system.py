@@ -714,4 +714,4 @@ if st.session_state.cells_data:
                         y=cell_hist["health"], 
                         name=f"{cell_id}_H", 
                         showlegend=False,
-                        line=dict(width=3, color=colors[i %
+                        line=dict(width=3, color=colors[i % len(colors)]
