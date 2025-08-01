@@ -1,0 +1,16 @@
+
+streamlit
+
+
+pandas
+numpy
+
+
+plotly
+
+
+
+streamlit-autorefresh
+streamlit-option-menu
+
+
